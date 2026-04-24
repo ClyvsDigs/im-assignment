@@ -45,7 +45,7 @@ export default function Home() {
           <img
             src="https://www.svgrepo.com/show/475656/google-color.svg"
             alt="google"
-            className="w-5 h-5"
+            className="w-[16px] h-[16px]"
           />
           Sign in with Google
         </button>
